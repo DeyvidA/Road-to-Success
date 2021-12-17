@@ -6,6 +6,7 @@ body
     font-size: 16px;
     padding: 0;
     margin: 0;
+    background-color: dimgray;
 }
 .cabecera
 {
@@ -21,8 +22,14 @@ body
 {
     padding-left: 3em ;
 }
-.container 
+.cabecera img
 {
+    width: 50px;
+    padding: 1em;
+}
+.container 
+{  
+    background-color: #efe;
     width: 70%;
     text-align: left;
     border: 1px solid #111;
