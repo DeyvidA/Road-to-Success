@@ -6,6 +6,7 @@ body
     font-size: 16px;
     padding: 0;
     margin: 0;
+    background-color: dimgray;
 }
 .cabecera
 {
@@ -21,8 +22,14 @@ body
 {
     padding-left: 3em ;
 }
-.container 
+.cabecera img
 {
+    width: 50px;
+    padding: 1em;
+}
+.container 
+{  
+    background-color: #efe;
     width: 70%;
     text-align: left;
     border: 1px solid #111;
@@ -36,4 +43,19 @@ body
 .post
 {
     padding: 1em;
+}
+.footer
+{
+    width: 100%;
+    background-color: dimgrey;
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    padding: .9em;
+    box-sizing: border-box;
+}
+.footer p
+{
+    margin: 0;
+    font-size: 1.5em;
 }
