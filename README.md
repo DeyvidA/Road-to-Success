@@ -7,3 +7,7 @@ interersante.
 * El simbolo de numeral ayuda a crear listas.
 ut
 * CRADA
+
+* disponible para todas las edades
+
+* Incluye ejemplos
